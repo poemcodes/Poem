@@ -1,3 +1,3 @@
 # Poem
-Open source code for poem.codes:
-Enjoy fun poem written in code.
+Open source code for [poem.codes](http://poem.codes).
+Enjoy creative, fun and amusing poem written in code.
